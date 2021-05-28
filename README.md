@@ -8,6 +8,7 @@ Create a single-input form where user can obtain movie information searching by 
 ## Requirements
 
 - use [OMDb API](http://www.omdbapi.com/)
+- API communication should be implemented on server side
 - at least *Released*, *Actors*, *Plot* and *Poster* should be presented to the user
 - basic styling should be applied on the front-end
 - don't forget about data validation and errors handling
