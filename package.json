@@ -1,0 +1,20 @@
+{
+  "name": "listencat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "php -S localhost:8000"
+  },
+  "author": "Adchitects",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-uglify": "^3.0.2",
+    "node-sass": "^4.14.0"
+  }
+}
